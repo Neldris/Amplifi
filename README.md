@@ -41,4 +41,7 @@ Below is a simple MAin menu
 
 The idea is very staright forward. To use any option, you must start with the option name.
 Example for Location,
- Do, -geo london, Richmond road Cardiff, Canada ... [ yes multi search coma separated sopported]
+ Do, 
+ 1. -geo london, Richmond road Cardiff, Canada ... [ yes multi search coma separated sopported]
+ 
+ 
