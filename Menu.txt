@@ -1,0 +1,26 @@
+﻿***************************************************************
+	Basic Operations supported are as follows.
+ --------------------------------------------------------------
+
+	All options starts witha - Followed by the instruction.
+	There are 10 current menus to use.
+
+	-people [name OR names separated by Coma ,]
+	-industry [name OR names separated by Coma ,]
+	-places [name OR names separated by Coma ,]
+	-geo  [name OR names separated by Coma ,]
+	-companies
+	-Technology
+	-places
+	-topics
+
+	USAGE:
+		To check for People with Name Osbourn,
+		
+	DO: 
+		-people Musk 
+		-geo london UK
+    MULTI SEARCH:
+		-people osbourn, Richard King, Elon Musk
+
+***************************************************************
